@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a student in SCS and I am a senior!
+So I will graduate next year!!!
 
-### More Information
+### What I like
 
-A place to include any other types of information that you'd like to include about yourself.
+Bboying
+Fixie
+Mamamoo
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[brighton@seoulchristian.org]
